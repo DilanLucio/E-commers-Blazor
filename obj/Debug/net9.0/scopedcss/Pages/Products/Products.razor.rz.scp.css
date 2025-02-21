@@ -1,0 +1,7 @@
+
+    .products-container[b-n5qq8qhh0q] {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 280px);
+        grid-auto-rows: auto;
+        grid-gap: 1rem;
+    }

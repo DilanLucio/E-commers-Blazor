@@ -1,0 +1,74 @@
+@page "/product"
+@inject ILogger<Products> Logger
+@inject IProductService productService
+@inject NavigationManager NavigationManager
+@inject IJSRuntime JSRuntime
+
+
+<PageTitle>Product</PageTitle>
+
+<h1>Products</h1>
+
+<button class="btn btn-dark" @onclick="@(() => NavigationManager.NavigateTo("/addproduct"))">Add - product</button>
+
+@if (products?.Count > 0)
+{
+    <div class="products-container">
+        @foreach (var product in products)
+        {
+            <div class="card">
+                <img class="card-img-top" src="@product.Images[0]" alt="Product" loading="lazy" width="270">
+                <div class="card-body">
+                    <h4><b>@product.title</b></h4>
+                    <p>@product.price?.ToString("C")</p>
+                </div>
+                <button class="btn btn-danger btn-sm d-inline-flex align-items-center"
+                    @onclick="@(() => DeleteProduct(product))">
+                    <span class="oi oi-trash"></span>
+                    <span class="ms-1">Delete</span>
+                </button>
+                <button class="btn btn-primary btn-sm d-inline-flex align-items-center"
+                    @onclick="@(() => EditProduct(product))">
+                    <span class="oi oi-pencil"></span>
+                    <span class="ms-1">Edit</span>
+                </button>
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No Hay productos.</p>
+}
+
+@code
+{
+    private List<Product> products;
+
+    protected override async Task OnInitializedAsync()
+    {
+        products = await productService.GetProductsAsync();
+    }
+
+    private async Task GetProductsAsync()
+    {
+        products = await productService.GetProductsAsync();
+    }
+
+    private async Task DeleteProduct(Product product)
+    {
+        if (!await JSRuntime.InvokeAsync<bool>("confirm", $"Are you sure you want to delete {product.title}?"))
+        {
+            return;
+        }
+        await productService.Delete(product.id);
+
+        await GetProductsAsync();
+    }
+
+    private async Task EditProduct(Product product)
+    {
+        NavigationManager.NavigateTo($"/editproduct/{product.id}");
+    }
+
+}

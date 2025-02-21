@@ -1,0 +1,76 @@
+@page "/editproduct/{productIdParameter}"
+@inject IProductService productService
+@inject ICategoryService categoryService
+@inject NavigationManager NavigationManager
+
+<PageTitle>Edit Product</PageTitle>
+
+<Title TitleProp="Edit Product"/>
+<button class="btn btn-dark" @onclick="@(() => NavigationManager.NavigateTo("/product"))">Products</button>
+<EditForm Model="@product" onsubmit="@UpdateProduct">
+    <div class="row">
+        <div class="col-8 form-group">
+            <label for="title" class="col-form-label">Title</label>
+            <InputText id="title" class="form-control" @bind-Value="product.title" required />
+        </div>
+
+        <div class="col-8 form-group">
+            <label for="price" class="col-form-label">Price</label>
+            <InputNumber id="price" class="form-control" @bind-Value="product.price" />
+        </div>
+
+        <div class="col-8 form-group">
+            <label for="description" class="col-form-label">Description</label>
+            <InputTextArea id="description" class="form-control" @bind-Value="product.description" />
+        </div>
+
+        <div class="col-8 form-group">
+            <label for="categoryId" class="col-form-label">Category</label>
+            <InputSelect id="categoryId" class="form-control" @bind-Value="product.categoryId">
+                <option value="">Select Category</option>
+                @foreach (var category in categories)
+                {
+                    <option value="@category.id">@category.name</option>
+                }
+            </InputSelect>
+        </div>
+
+        <div class="col-8 form-group">
+            <label for="image" class="col-form-label">Image(Url)</label>
+            <InputText id="image" class="form-control" @bind-Value="product.Image" />
+        </div>
+
+        <div class="col-8 mt-3">
+            <button type="submit" class="btn btn-primary">Save</button>
+        </div>
+    </div>
+</EditForm>
+
+@code 
+{
+    private Product product = new Product();
+    private List<Category> categories = new List<Category>();
+    [Parameter]
+    public string productIdParameter { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        categories = await categoryService.GetCategoriesAsync();
+        product = await productService.GetProductByIdAsync(int.Parse(productIdParameter));
+    }
+
+    private async Task UpdateProduct()
+    {
+        if (Uri.TryCreate(product.Image, UriKind.Absolute, out Uri uriResult) &&
+        (uriResult.Scheme == Uri.UriSchemeHttp || uriResult.Scheme == Uri.UriSchemeHttps))
+        {
+            product.Images = new string[] { product.Image };
+            await productService.Update(product);
+            NavigationManager.NavigateTo("/product");
+        }
+        else
+        {
+            Console.WriteLine("Error: La imagen debe ser una URL válida.");
+        }
+    }
+}
