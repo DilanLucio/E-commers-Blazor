@@ -1,8 +1,9 @@
 {
   "mainAssemblyName": "DilanBlazor",
   "resources": {
-    "hash": "sha256-B2YFF3RTcst28ESoR+XBxDiMrMUTDeoPK203hPuBvow=",
+    "hash": "sha256-hWyicyQMUT9T/Le1+nyKZgojcLxg/Wbyxtf4dViLN0o=",
     "fingerprinting": {
+      "Blazored.Toast.4gbrhkrum5.wasm": "Blazored.Toast.wasm",
       "Microsoft.AspNetCore.Authorization.esv38zo127.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.cwj0bpb71v.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.aq1ir8e8pl.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -201,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "DilanBlazor.f7w66juhml.wasm": "DilanBlazor.wasm",
-      "DilanBlazor.meqzi0igs2.pdb": "DilanBlazor.pdb"
+      "DilanBlazor.2xc98i01ht.wasm": "DilanBlazor.wasm",
+      "DilanBlazor.rn93gm94sw.pdb": "DilanBlazor.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
@@ -223,6 +224,7 @@
       "System.Private.CoreLib.6pgvn7a8kc.wasm": "sha256-SvlKQyOSwushlzp2th0dFRtuG039e446mqxz7rmv5XM="
     },
     "assembly": {
+      "Blazored.Toast.4gbrhkrum5.wasm": "sha256-tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4=",
       "Microsoft.AspNetCore.Authorization.esv38zo127.wasm": "sha256-rvfJ4vWD9REicee49XUtbmMWVdG0gSGCfb9oZFv9gkY=",
       "Microsoft.AspNetCore.Components.cwj0bpb71v.wasm": "sha256-RDzFNwWFeDHfByrpBjtoeDosPx0W+62WnUqQnxj4pzs=",
       "Microsoft.AspNetCore.Components.Forms.aq1ir8e8pl.wasm": "sha256-QtQH0F71sC0xN/8FWFAnruXDnbOacIsCWaGtPYIgPHM=",
@@ -412,10 +414,10 @@
       "WindowsBase.tuf34ieu7y.wasm": "sha256-Bd+l972cOS1eVeLzrQNlgD6LPWV1QXBSzJhv8Tx1WGI=",
       "mscorlib.5q5u0swn6q.wasm": "sha256-g9cI1sECkF7bxMqOSB+W0a4utdDsqTrqZzyiAEeA65g=",
       "netstandard.w8gk1pigg1.wasm": "sha256-QFR5QNPfvyZTexW3IA/AFx6ZmIF/TecvOUsSK4gM4po=",
-      "DilanBlazor.f7w66juhml.wasm": "sha256-i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA="
+      "DilanBlazor.2xc98i01ht.wasm": "sha256-pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY="
     },
     "pdb": {
-      "DilanBlazor.meqzi0igs2.pdb": "sha256-kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs="
+      "DilanBlazor.rn93gm94sw.pdb": "sha256-WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8="
     }
   },
   "cacheBootResources": true,

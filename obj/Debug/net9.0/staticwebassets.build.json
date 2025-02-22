@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bBhsHCp9dTB2KScL7Bb4uXthy/gYFQgQB0Tpzc5zMUA=",
+  "Hash": "C3a2iL5wN56rG6zvU6rf9ItzQ+ktUGWmApXSP2gFkAg=",
   "Source": "DilanBlazor",
   "BasePath": "/",
   "Mode": "Root",
@@ -17,6 +17,27 @@
   ],
   "Assets": [
     {
+      "Identity": "C:\\Users\\DELL\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\DELL\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "2eijknf10w",
+      "Integrity": "Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
+    {
       "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "SourceId": "DilanBlazor",
       "SourceType": "Computed",
@@ -31,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "je67x5zkm6",
-      "Integrity": "K0ECuq3kTglUo45GteoKVTEPPVjaICEiwDqglJMFGeM=",
+      "Fingerprint": "9nugklee9i",
+      "Integrity": "JWcHVOlA/0kal8HQulR4nlhkw8vTINg1S/3T3uVnzrU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -59,6 +80,27 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\9.0.2\\build\\net9.0\\blazor.webassembly.js"
     },
     {
+      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazored.Toast.wasm",
+      "SourceId": "DilanBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast#[.{fingerprint}]!.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "Fingerprint": "4gbrhkrum5",
+      "Integrity": "tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\webcil\\Blazored.Toast.wasm"
+    },
+    {
       "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.pdb",
       "SourceId": "DilanBlazor",
       "SourceType": "Computed",
@@ -73,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "meqzi0igs2",
-      "Integrity": "kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs=",
+      "Fingerprint": "rn93gm94sw",
+      "Integrity": "WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\DilanBlazor.pdb"
@@ -94,8 +136,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "f7w66juhml",
-      "Integrity": "i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA=",
+      "Fingerprint": "2xc98i01ht",
+      "Integrity": "pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\webcil\\DilanBlazor.wasm"
@@ -4763,6 +4805,27 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.Pipes.AccessControl.wasm"
     },
     {
+      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\3i2mxjywd1-4gbrhkrum5.gz",
+      "SourceId": "DilanBlazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.Toast#[.{fingerprint=4gbrhkrum5}]!.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazored.Toast.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qebkajvjbg",
+      "Integrity": "wpzlvL33eaJGClk556XHaLdbzHilL01i1a0xWOcTpzE=",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazored.Toast.wasm"
+    },
+    {
       "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\3nxzx93jff-4qr1uf2xo0.gz",
       "SourceId": "DilanBlazor",
       "SourceType": "Computed",
@@ -5120,6 +5183,27 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Data.DataSetExtensions.wasm"
     },
     {
+      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5pb5ikadpp-2eijknf10w.gz",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\DELL\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ghzjd48x4c",
+      "Integrity": "nEhHr+kpSFmuFlaaIvNpMDbp1DG89qG0EizxhBavLlY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
+    {
       "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5sk9e4qqr4-rpnxqnm5kp.gz",
       "SourceId": "DilanBlazor",
       "SourceType": "Computed",
@@ -5141,12 +5225,12 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.wasm"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-atfwvemldn.gz",
+      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-mfo1f068hv.gz",
       "SourceId": "DilanBlazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "DilanBlazor#[.{fingerprint=atfwvemldn}]?.styles.css.gz",
+      "RelativePath": "DilanBlazor#[.{fingerprint=mfo1f068hv}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -5155,8 +5239,8 @@
       "RelatedAsset": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DilanBlazor.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ttwbp4wn9v",
-      "Integrity": "8YNSmcwXnpVV9Pqqhov4ze/lHlHxcBCKniwQPB0vzq4=",
+      "Fingerprint": "7sarrbtac3",
+      "Integrity": "V8bHj+WFFQQ6PTUdvMxAuRZ8bmo0T7XVEK2elcZaSgo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DilanBlazor.styles.css"
@@ -5582,12 +5666,12 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Net.Requests.wasm"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-meqzi0igs2.gz",
+      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-rn93gm94sw.gz",
       "SourceId": "DilanBlazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/DilanBlazor#[.{fingerprint=meqzi0igs2}]!.pdb.gz",
+      "RelativePath": "_framework/DilanBlazor#[.{fingerprint=rn93gm94sw}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5596,8 +5680,8 @@
       "RelatedAsset": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dm6ip4dmds",
-      "Integrity": "+3SdTtxeL225O2TFLQS1ilTSmXXe1HBplwcsa+qmpW8=",
+      "Fingerprint": "bucr20rlr9",
+      "Integrity": "PVQI+Aclmgb/+T+d/GLdmNMo5uuuh9YCjI8R/G8qeeY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.pdb"
@@ -5897,12 +5981,12 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.wasm"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-f7w66juhml.gz",
+      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-2xc98i01ht.gz",
       "SourceId": "DilanBlazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/DilanBlazor#[.{fingerprint=f7w66juhml}]!.wasm.gz",
+      "RelativePath": "_framework/DilanBlazor#[.{fingerprint=2xc98i01ht}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5911,8 +5995,8 @@
       "RelatedAsset": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hxtncoiaod",
-      "Integrity": "u3yCmhqwehXQWIOt/I5cGyekLXNq8h6Exx0EueoWOhw=",
+      "Fingerprint": "16c2n7nfmx",
+      "Integrity": "5zLcxHx1HXLXBFh/8qzMXE7ZNZDWHbrvqlPu6/DsPus=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.wasm"
@@ -6086,7 +6170,7 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.IO.MemoryMappedFiles.wasm"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\d2rf4blere-je67x5zkm6.gz",
+      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\d2rf4blere-9nugklee9i.gz",
       "SourceId": "DilanBlazor",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\",
@@ -6100,8 +6184,8 @@
       "RelatedAsset": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "bqlzwbzkmz",
-      "Integrity": "w7QgHIKs9vhGWQ1eYsSX/oVhmH1OMObQliBIEDBD4/Y=",
+      "Fingerprint": "mmtkwhbcrt",
+      "Integrity": "AnnYdJFjqyzZQKCdu3q08n8/g3njv6l4UZ53L/AhkYU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7682,12 +7766,12 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.Serialization.Formatters.wasm"
     },
     {
-      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-eptotb10ru.gz",
+      "Identity": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-ehzegnau01.gz",
       "SourceId": "DilanBlazor",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "index#[.{fingerprint=eptotb10ru}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=ehzegnau01}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7696,8 +7780,8 @@
       "RelatedAsset": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "b5nlzws201",
-      "Integrity": "kdRkAkIAxKXcio0RQqO3MX1EqGKEBTKK+mmVFcGZy88=",
+      "Fingerprint": "lnmz9c4178",
+      "Integrity": "cTYxrDBP+XAM4Fj2Xj1+6dr9PN9gMEDKFwBsGGlP+AQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\wwwroot\\index.html"
@@ -9649,8 +9733,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "atfwvemldn",
-      "Integrity": "8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI=",
+      "Fingerprint": "mfo1f068hv",
+      "Integrity": "8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DilanBlazor.styles.css"
@@ -9775,8 +9859,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "eptotb10ru",
-      "Integrity": "YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM=",
+      "Fingerprint": "ehzegnau01",
+      "Integrity": "IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -10729,6 +10813,143 @@
   ],
   "Endpoints": [
     {
+      "Route": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css",
+      "AssetFile": "C:\\Users\\DELL\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Mar 2024 16:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5pb5ikadpp-2eijknf10w.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001086956522"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nEhHr+kpSFmuFlaaIvNpMDbp1DG89qG0EizxhBavLlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Mar 2024 16:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5pb5ikadpp-2eijknf10w.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "919"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nEhHr+kpSFmuFlaaIvNpMDbp1DG89qG0EizxhBavLlY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Mar 2024 16:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nEhHr+kpSFmuFlaaIvNpMDbp1DG89qG0EizxhBavLlY="
+        }
+      ]
+    },
+    {
       "Route": "_framework/blazor.boot.json",
       "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "Selectors": [],
@@ -10747,11 +10968,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K0ECuq3kTglUo45GteoKVTEPPVjaICEiwDqglJMFGeM=\""
+          "Value": "\"JWcHVOlA/0kal8HQulR4nlhkw8vTINg1S/3T3uVnzrU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:10:25 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10761,18 +10982,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K0ECuq3kTglUo45GteoKVTEPPVjaICEiwDqglJMFGeM="
+          "Value": "sha256-JWcHVOlA/0kal8HQulR4nlhkw8vTINg1S/3T3uVnzrU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\d2rf4blere-je67x5zkm6.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\d2rf4blere-9nugklee9i.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000081063554"
+          "Quality": "0.000080638658"
         }
       ],
       "ResponseHeaders": [
@@ -10782,15 +11003,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12335"
+          "Value": "12400"
         },
         {
           "Name": "ETag",
-          "Value": "\"w7QgHIKs9vhGWQ1eYsSX/oVhmH1OMObQliBIEDBD4/Y=\""
+          "Value": "\"AnnYdJFjqyzZQKCdu3q08n8/g3njv6l4UZ53L/AhkYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
+          "Value": "Sat, 22 Feb 2025 04:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10810,19 +11031,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"K0ECuq3kTglUo45GteoKVTEPPVjaICEiwDqglJMFGeM=\""
+          "Value": "W/\"JWcHVOlA/0kal8HQulR4nlhkw8vTINg1S/3T3uVnzrU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K0ECuq3kTglUo45GteoKVTEPPVjaICEiwDqglJMFGeM="
+          "Value": "sha256-JWcHVOlA/0kal8HQulR4nlhkw8vTINg1S/3T3uVnzrU="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\d2rf4blere-je67x5zkm6.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\d2rf4blere-9nugklee9i.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10831,7 +11052,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12335"
+          "Value": "12400"
         },
         {
           "Name": "Content-Type",
@@ -10839,11 +11060,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"w7QgHIKs9vhGWQ1eYsSX/oVhmH1OMObQliBIEDBD4/Y=\""
+          "Value": "\"AnnYdJFjqyzZQKCdu3q08n8/g3njv6l4UZ53L/AhkYU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
+          "Value": "Sat, 22 Feb 2025 04:36:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10861,7 +11082,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-w7QgHIKs9vhGWQ1eYsSX/oVhmH1OMObQliBIEDBD4/Y="
+          "Value": "sha256-AnnYdJFjqyzZQKCdu3q08n8/g3njv6l4UZ53L/AhkYU="
         }
       ]
     },
@@ -11003,7 +11224,305 @@
       ]
     },
     {
-      "Route": "_framework/DilanBlazor.f7w66juhml.wasm",
+      "Route": "_framework/Blazored.Toast.4gbrhkrum5.wasm",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazored.Toast.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gbrhkrum5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Blazored.Toast.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazored.Toast.4gbrhkrum5.wasm",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\3i2mxjywd1-4gbrhkrum5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000056612319"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17663"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wpzlvL33eaJGClk556XHaLdbzHilL01i1a0xWOcTpzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gbrhkrum5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Blazored.Toast.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazored.Toast.4gbrhkrum5.wasm.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\3i2mxjywd1-4gbrhkrum5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wpzlvL33eaJGClk556XHaLdbzHilL01i1a0xWOcTpzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4gbrhkrum5"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Blazored.Toast.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wpzlvL33eaJGClk556XHaLdbzHilL01i1a0xWOcTpzE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazored.Toast.wasm",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Blazored.Toast.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazored.Toast.wasm",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\3i2mxjywd1-4gbrhkrum5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000056612319"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17663"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wpzlvL33eaJGClk556XHaLdbzHilL01i1a0xWOcTpzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tCNYnYuB69ZO7+n7obUv//+KkNP809fARvATEkvPug4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Blazored.Toast.wasm.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\3i2mxjywd1-4gbrhkrum5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17663"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wpzlvL33eaJGClk556XHaLdbzHilL01i1a0xWOcTpzE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wpzlvL33eaJGClk556XHaLdbzHilL01i1a0xWOcTpzE="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DilanBlazor.2xc98i01ht.wasm",
       "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11013,7 +11532,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42261"
+          "Value": "43285"
         },
         {
           "Name": "Content-Type",
@@ -11021,11 +11540,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA=\""
+          "Value": "\"pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:09 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11035,7 +11554,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f7w66juhml"
+          "Value": "2xc98i01ht"
         },
         {
           "Name": "label",
@@ -11043,18 +11562,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA="
+          "Value": "sha256-pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY="
         }
       ]
     },
     {
-      "Route": "_framework/DilanBlazor.f7w66juhml.wasm",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-f7w66juhml.gz",
+      "Route": "_framework/DilanBlazor.2xc98i01ht.wasm",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-2xc98i01ht.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059185606"
+          "Quality": "0.000057820179"
         }
       ],
       "ResponseHeaders": [
@@ -11064,15 +11583,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16895"
+          "Value": "17294"
         },
         {
           "Name": "ETag",
-          "Value": "\"u3yCmhqwehXQWIOt/I5cGyekLXNq8h6Exx0EueoWOhw=\""
+          "Value": "\"5zLcxHx1HXLXBFh/8qzMXE7ZNZDWHbrvqlPu6/DsPus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11092,13 +11611,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA=\""
+          "Value": "W/\"pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f7w66juhml"
+          "Value": "2xc98i01ht"
         },
         {
           "Name": "label",
@@ -11106,13 +11625,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA="
+          "Value": "sha256-pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY="
         }
       ]
     },
     {
-      "Route": "_framework/DilanBlazor.f7w66juhml.wasm.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-f7w66juhml.gz",
+      "Route": "_framework/DilanBlazor.2xc98i01ht.wasm.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-2xc98i01ht.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11121,7 +11640,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16895"
+          "Value": "17294"
         },
         {
           "Name": "Content-Type",
@@ -11129,11 +11648,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u3yCmhqwehXQWIOt/I5cGyekLXNq8h6Exx0EueoWOhw=\""
+          "Value": "\"5zLcxHx1HXLXBFh/8qzMXE7ZNZDWHbrvqlPu6/DsPus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11151,7 +11670,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "f7w66juhml"
+          "Value": "2xc98i01ht"
         },
         {
           "Name": "label",
@@ -11159,12 +11678,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-u3yCmhqwehXQWIOt/I5cGyekLXNq8h6Exx0EueoWOhw="
+          "Value": "sha256-5zLcxHx1HXLXBFh/8qzMXE7ZNZDWHbrvqlPu6/DsPus="
         }
       ]
     },
     {
-      "Route": "_framework/DilanBlazor.meqzi0igs2.pdb",
+      "Route": "_framework/DilanBlazor.pdb",
       "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11174,7 +11693,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31792"
+          "Value": "32432"
         },
         {
           "Name": "Content-Type",
@@ -11182,40 +11701,32 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs=\""
+          "Value": "\"WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:09 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:49 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "meqzi0igs2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/DilanBlazor.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs="
+          "Value": "sha256-WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8="
         }
       ]
     },
     {
-      "Route": "_framework/DilanBlazor.meqzi0igs2.pdb",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-meqzi0igs2.gz",
+      "Route": "_framework/DilanBlazor.pdb",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-rn93gm94sw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000043020004"
+          "Quality": "0.000042094629"
         }
       ],
       "ResponseHeaders": [
@@ -11225,19 +11736,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23244"
+          "Value": "23755"
         },
         {
           "Name": "ETag",
-          "Value": "\"+3SdTtxeL225O2TFLQS1ilTSmXXe1HBplwcsa+qmpW8=\""
+          "Value": "\"PVQI+Aclmgb/+T+d/GLdmNMo5uuuh9YCjI8R/G8qeeY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -11253,27 +11764,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs=\""
+          "Value": "W/\"WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "meqzi0igs2"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/DilanBlazor.pdb"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs="
+          "Value": "sha256-WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8="
         }
       ]
     },
     {
-      "Route": "_framework/DilanBlazor.meqzi0igs2.pdb.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-meqzi0igs2.gz",
+      "Route": "_framework/DilanBlazor.pdb.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-rn93gm94sw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11282,7 +11785,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "23244"
+          "Value": "23755"
         },
         {
           "Name": "Content-Type",
@@ -11290,11 +11793,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+3SdTtxeL225O2TFLQS1ilTSmXXe1HBplwcsa+qmpW8=\""
+          "Value": "\"PVQI+Aclmgb/+T+d/GLdmNMo5uuuh9YCjI8R/G8qeeY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PVQI+Aclmgb/+T+d/GLdmNMo5uuuh9YCjI8R/G8qeeY="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DilanBlazor.rn93gm94sw.pdb",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32432"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rn93gm94sw"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/DilanBlazor.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DilanBlazor.rn93gm94sw.pdb",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-rn93gm94sw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000042094629"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVQI+Aclmgb/+T+d/GLdmNMo5uuuh9YCjI8R/G8qeeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rn93gm94sw"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/DilanBlazor.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WfQ8zzCJL2mc06rysFjE69bvLmN8uEwyoVVzlfDx6J8="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DilanBlazor.rn93gm94sw.pdb.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-rn93gm94sw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVQI+Aclmgb/+T+d/GLdmNMo5uuuh9YCjI8R/G8qeeY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11312,7 +11968,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "meqzi0igs2"
+          "Value": "rn93gm94sw"
         },
         {
           "Name": "label",
@@ -11320,144 +11976,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-+3SdTtxeL225O2TFLQS1ilTSmXXe1HBplwcsa+qmpW8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DilanBlazor.pdb",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\bin\\Debug\\net9.0\\wwwroot\\_framework\\DilanBlazor.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "31792"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DilanBlazor.pdb",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-meqzi0igs2.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000043020004"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23244"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+3SdTtxeL225O2TFLQS1ilTSmXXe1HBplwcsa+qmpW8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kh2CK/z5ydPmPa3oEeFmXF2ZFTKsnP4BHSAIOM/efbs="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DilanBlazor.pdb.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\8srutappn4-meqzi0igs2.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23244"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+3SdTtxeL225O2TFLQS1ilTSmXXe1HBplwcsa+qmpW8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+3SdTtxeL225O2TFLQS1ilTSmXXe1HBplwcsa+qmpW8="
+          "Value": "sha256-PVQI+Aclmgb/+T+d/GLdmNMo5uuuh9YCjI8R/G8qeeY="
         }
       ]
     },
@@ -11472,7 +11991,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "42261"
+          "Value": "43285"
         },
         {
           "Name": "Content-Type",
@@ -11480,11 +11999,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA=\""
+          "Value": "\"pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:09 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11494,18 +12013,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA="
+          "Value": "sha256-pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY="
         }
       ]
     },
     {
       "Route": "_framework/DilanBlazor.wasm",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-f7w66juhml.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-2xc98i01ht.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000059185606"
+          "Quality": "0.000057820179"
         }
       ],
       "ResponseHeaders": [
@@ -11515,15 +12034,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16895"
+          "Value": "17294"
         },
         {
           "Name": "ETag",
-          "Value": "\"u3yCmhqwehXQWIOt/I5cGyekLXNq8h6Exx0EueoWOhw=\""
+          "Value": "\"5zLcxHx1HXLXBFh/8qzMXE7ZNZDWHbrvqlPu6/DsPus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11543,19 +12062,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA=\""
+          "Value": "W/\"pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-i/roNTbGUzRqbuZSFHfygBNca6qUEXBuo2kKgqA32UA="
+          "Value": "sha256-pnmGt56P+LsVH9I6FAzyCn9H+nU6MRSR1i0vujixyjY="
         }
       ]
     },
     {
       "Route": "_framework/DilanBlazor.wasm.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-f7w66juhml.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\blv13tph35-2xc98i01ht.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11564,7 +12083,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "16895"
+          "Value": "17294"
         },
         {
           "Name": "Content-Type",
@@ -11572,11 +12091,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u3yCmhqwehXQWIOt/I5cGyekLXNq8h6Exx0EueoWOhw=\""
+          "Value": "\"5zLcxHx1HXLXBFh/8qzMXE7ZNZDWHbrvqlPu6/DsPus=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:08:12 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:52 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11594,7 +12113,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u3yCmhqwehXQWIOt/I5cGyekLXNq8h6Exx0EueoWOhw="
+          "Value": "sha256-5zLcxHx1HXLXBFh/8qzMXE7ZNZDWHbrvqlPu6/DsPus="
         }
       ]
     },
@@ -71956,167 +72475,6 @@
       ]
     },
     {
-      "Route": "DilanBlazor.atfwvemldn.styles.css",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-atfwvemldn.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000671140940"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1489"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8YNSmcwXnpVV9Pqqhov4ze/lHlHxcBCKniwQPB0vzq4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 19:28:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "atfwvemldn"
-        },
-        {
-          "Name": "label",
-          "Value": "DilanBlazor.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI="
-        }
-      ]
-    },
-    {
-      "Route": "DilanBlazor.atfwvemldn.styles.css",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DilanBlazor.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4890"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 19:28:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "atfwvemldn"
-        },
-        {
-          "Name": "label",
-          "Value": "DilanBlazor.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI="
-        }
-      ]
-    },
-    {
-      "Route": "DilanBlazor.atfwvemldn.styles.css.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-atfwvemldn.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1489"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8YNSmcwXnpVV9Pqqhov4ze/lHlHxcBCKniwQPB0vzq4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 19:28:18 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "atfwvemldn"
-        },
-        {
-          "Name": "label",
-          "Value": "DilanBlazor.styles.css.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8YNSmcwXnpVV9Pqqhov4ze/lHlHxcBCKniwQPB0vzq4="
-        }
-      ]
-    },
-    {
       "Route": "DilanBlazor.bundle.scp.css",
       "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\j1voihbc6u-atfwvemldn.gz",
       "Selectors": [
@@ -72254,13 +72612,13 @@
       ]
     },
     {
-      "Route": "DilanBlazor.styles.css",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-atfwvemldn.gz",
+      "Route": "DilanBlazor.mfo1f068hv.styles.css",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-mfo1f068hv.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000671140940"
+          "Quality": "0.000657462196"
         }
       ],
       "ResponseHeaders": [
@@ -72270,15 +72628,184 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1489"
+          "Value": "1520"
         },
         {
           "Name": "ETag",
-          "Value": "\"8YNSmcwXnpVV9Pqqhov4ze/lHlHxcBCKniwQPB0vzq4=\""
+          "Value": "\"V8bHj+WFFQQ6PTUdvMxAuRZ8bmo0T7XVEK2elcZaSgo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 19:28:18 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mfo1f068hv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E="
+        },
+        {
+          "Name": "label",
+          "Value": "DilanBlazor.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "DilanBlazor.mfo1f068hv.styles.css",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\DilanBlazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4958"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:50 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mfo1f068hv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E="
+        },
+        {
+          "Name": "label",
+          "Value": "DilanBlazor.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "DilanBlazor.mfo1f068hv.styles.css.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-mfo1f068hv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1520"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V8bHj+WFFQQ6PTUdvMxAuRZ8bmo0T7XVEK2elcZaSgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mfo1f068hv"
+        },
+        {
+          "Name": "label",
+          "Value": "DilanBlazor.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V8bHj+WFFQQ6PTUdvMxAuRZ8bmo0T7XVEK2elcZaSgo="
+        }
+      ]
+    },
+    {
+      "Route": "DilanBlazor.styles.css",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-mfo1f068hv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000657462196"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1520"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V8bHj+WFFQQ6PTUdvMxAuRZ8bmo0T7XVEK2elcZaSgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 22 Feb 2025 05:14:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72298,13 +72825,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI=\""
+          "Value": "W/\"8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E=\""
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI="
+          "Value": "sha256-8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E="
         }
       ]
     },
@@ -72318,8 +72849,12 @@
           "Value": "bytes"
         },
         {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
           "Name": "Content-Length",
-          "Value": "4890"
+          "Value": "4958"
         },
         {
           "Name": "Content-Type",
@@ -72327,27 +72862,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI=\""
+          "Value": "\"8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 19:28:18 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:50 GMT"
         },
         {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI="
+          "Value": "sha256-8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E="
         }
       ]
     },
     {
       "Route": "DilanBlazor.styles.css.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-atfwvemldn.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\5tjhp8hibm-mfo1f068hv.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72356,7 +72891,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1489"
+          "Value": "1520"
         },
         {
           "Name": "Content-Type",
@@ -72364,11 +72899,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8YNSmcwXnpVV9Pqqhov4ze/lHlHxcBCKniwQPB0vzq4=\""
+          "Value": "\"V8bHj+WFFQQ6PTUdvMxAuRZ8bmo0T7XVEK2elcZaSgo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 20 Feb 2025 19:28:18 GMT"
+          "Value": "Sat, 22 Feb 2025 05:14:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72386,7 +72921,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8YNSmcwXnpVV9Pqqhov4ze/lHlHxcBCKniwQPB0vzq4="
+          "Value": "sha256-V8bHj+WFFQQ6PTUdvMxAuRZ8bmo0T7XVEK2elcZaSgo="
         }
       ]
     },
@@ -72555,13 +73090,13 @@
       ]
     },
     {
-      "Route": "index.eptotb10ru.html",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-eptotb10ru.gz",
+      "Route": "index.ehzegnau01.html",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-ehzegnau01.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001459854015"
+          "Quality": "0.001457725948"
         }
       ],
       "ResponseHeaders": [
@@ -72571,15 +73106,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "684"
+          "Value": "685"
         },
         {
           "Name": "ETag",
-          "Value": "\"kdRkAkIAxKXcio0RQqO3MX1EqGKEBTKK+mmVFcGZy88=\""
+          "Value": "\"cTYxrDBP+XAM4Fj2Xj1+6dr9PN9gMEDKFwBsGGlP+AQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:09:59 GMT"
+          "Value": "Sat, 22 Feb 2025 05:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72599,13 +73134,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM=\""
+          "Value": "W/\"IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eptotb10ru"
+          "Value": "ehzegnau01"
         },
         {
           "Name": "label",
@@ -72613,12 +73148,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM="
+          "Value": "sha256-IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ="
         }
       ]
     },
     {
-      "Route": "index.eptotb10ru.html",
+      "Route": "index.ehzegnau01.html",
       "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -72628,7 +73163,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1418"
+          "Value": "1475"
         },
         {
           "Name": "Content-Type",
@@ -72636,11 +73171,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM=\""
+          "Value": "\"IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:09:59 GMT"
+          "Value": "Sat, 22 Feb 2025 05:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72650,7 +73185,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eptotb10ru"
+          "Value": "ehzegnau01"
         },
         {
           "Name": "label",
@@ -72658,13 +73193,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM="
+          "Value": "sha256-IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ="
         }
       ]
     },
     {
-      "Route": "index.eptotb10ru.html.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-eptotb10ru.gz",
+      "Route": "index.ehzegnau01.html.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-ehzegnau01.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72673,7 +73208,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "684"
+          "Value": "685"
         },
         {
           "Name": "Content-Type",
@@ -72681,11 +73216,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kdRkAkIAxKXcio0RQqO3MX1EqGKEBTKK+mmVFcGZy88=\""
+          "Value": "\"cTYxrDBP+XAM4Fj2Xj1+6dr9PN9gMEDKFwBsGGlP+AQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:09:59 GMT"
+          "Value": "Sat, 22 Feb 2025 05:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72703,7 +73238,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "eptotb10ru"
+          "Value": "ehzegnau01"
         },
         {
           "Name": "label",
@@ -72711,18 +73246,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kdRkAkIAxKXcio0RQqO3MX1EqGKEBTKK+mmVFcGZy88="
+          "Value": "sha256-cTYxrDBP+XAM4Fj2Xj1+6dr9PN9gMEDKFwBsGGlP+AQ="
         }
       ]
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-eptotb10ru.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-ehzegnau01.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001459854015"
+          "Quality": "0.001457725948"
         }
       ],
       "ResponseHeaders": [
@@ -72732,15 +73267,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "684"
+          "Value": "685"
         },
         {
           "Name": "ETag",
-          "Value": "\"kdRkAkIAxKXcio0RQqO3MX1EqGKEBTKK+mmVFcGZy88=\""
+          "Value": "\"cTYxrDBP+XAM4Fj2Xj1+6dr9PN9gMEDKFwBsGGlP+AQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:09:59 GMT"
+          "Value": "Sat, 22 Feb 2025 05:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72760,13 +73295,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM=\""
+          "Value": "W/\"IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM="
+          "Value": "sha256-IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ="
         }
       ]
     },
@@ -72781,7 +73316,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1418"
+          "Value": "1475"
         },
         {
           "Name": "Content-Type",
@@ -72789,11 +73324,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM=\""
+          "Value": "\"IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:09:59 GMT"
+          "Value": "Sat, 22 Feb 2025 05:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72803,13 +73338,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM="
+          "Value": "sha256-IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ="
         }
       ]
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-eptotb10ru.gz",
+      "AssetFile": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\obj\\Debug\\net9.0\\compressed\\nfasfe1s31-ehzegnau01.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -72818,7 +73353,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "684"
+          "Value": "685"
         },
         {
           "Name": "Content-Type",
@@ -72826,11 +73361,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kdRkAkIAxKXcio0RQqO3MX1EqGKEBTKK+mmVFcGZy88=\""
+          "Value": "\"cTYxrDBP+XAM4Fj2Xj1+6dr9PN9gMEDKFwBsGGlP+AQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Feb 2025 20:09:59 GMT"
+          "Value": "Sat, 22 Feb 2025 05:09:59 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -72848,7 +73383,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kdRkAkIAxKXcio0RQqO3MX1EqGKEBTKK+mmVFcGZy88="
+          "Value": "sha256-cTYxrDBP+XAM4Fj2Xj1+6dr9PN9gMEDKFwBsGGlP+AQ="
         }
       ]
     },

@@ -3,6 +3,7 @@
 @inject IProductService productService
 @inject NavigationManager NavigationManager
 @inject IJSRuntime JSRuntime
+@inject IToastService ToastService
 
 
 <PageTitle>Product</PageTitle>
@@ -62,7 +63,7 @@ else
             return;
         }
         await productService.Delete(product.id);
-
+        ToastService.ShowSuccess("Product deleted successfully");
         await GetProductsAsync();
     }
 

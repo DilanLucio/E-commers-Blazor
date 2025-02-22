@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DilanBlazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+065b58ca6120298ef299bc93c9eb006068ef277d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DilanBlazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DilanBlazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

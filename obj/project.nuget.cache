@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xFVfCBGCWLI=",
+  "dgSpecHash": "DuAiZF6gMXY=",
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Desktop\\DilanBlazor\\DilanBlazor.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\blazored.toast\\4.2.1\\blazored.toast.4.2.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.2\\microsoft.aspnetcore.authorization.9.0.2.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.2\\microsoft.aspnetcore.components.9.0.2.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\9.0.2\\microsoft.aspnetcore.components.analyzers.9.0.2.nupkg.sha512",

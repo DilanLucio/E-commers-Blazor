@@ -48,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>atfwvemldn</Fingerprint>
-      <Integrity>8tDpr2M820Koi4x7cUdCH/RT/kz7hyZTPRxLXLS8XlI=</Integrity>
+      <Fingerprint>mfo1f068hv</Fingerprint>
+      <Integrity>8gD7uOzve2pLmBd8lDssXjgqAuvNMNLMNUUxK94xA5E=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DilanBlazor.styles.css'))</OriginalItemSpec>
@@ -102,8 +102,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>eptotb10ru</Fingerprint>
-      <Integrity>YgXQyUg8E/oQNcDc88IklUAzqK2Qa0RdK4g0Tm8NwJM=</Integrity>
+      <Fingerprint>ehzegnau01</Fingerprint>
+      <Integrity>IpeP6FH5gashToM21U6/Pcm67fjxCQShD7tftSEdNLQ=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</OriginalItemSpec>
